@@ -11,20 +11,24 @@ This process provides a strong foundation for making data-driven decisions and d
 ## Business problems that can be solved using this dataset: ##
 1. Which products are excelling in sales, and which are underperforming?
 
-2. Which regional stores are experiencing strong sales, and which ones are lagging?
+2. Which sales method are driving the highest sales and growth?
 
-3. Does the profit margin significantly impact sales?
+3. Which stores(retailer) are experiencing strong sales, and which ones are lagging?
 
-4. Which sales method is more effective — outlet, in-store or online?
+4. How does sales performance vary across different geographical regions?
 
-5. Is there a specific price range that achieves better sales than others?
+5. Assess the best and worst performing stores based on their locations.
 
-6. Determine which products are most profitable, segmented by location.
+6. Is there a specific price range that achieves better sales than others?
 
-7. Market Expansion Opportunities: Assess the best and worst performing stores based on their locations.
+7. Which years had the highest and lowest operating profit figures?
 
-8. Time Series Analysis: Investigate whether there has been a consistent sales trend over time or any noticeable monthly trends.
+8. How does sales performance vary across different sales methods?
 
-9. Predictive Sales Analysis: Develop a forecast for monthly sales.
+9. Determine which products are most profitable, segmented by location.
 
-10. Tableau Sales Dashboard
+10. Does the profit margin significantly impact sales?
+
+11. Investigate whether there has been a consistent sales trend over time or any noticeable monthly trends.
+
+12.Tableau Sales Dashboard
