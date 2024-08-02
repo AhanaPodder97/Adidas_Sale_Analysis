@@ -1,4 +1,4 @@
-# Adidas_Sale_Analysis
+# Adidas Sale Analysis
 ![Adidas-logo](https://github.com/user-attachments/assets/ea21146d-ba2f-4e1b-9918-78ecae7f8025)
 
 ## INTRODUCTION: ##
