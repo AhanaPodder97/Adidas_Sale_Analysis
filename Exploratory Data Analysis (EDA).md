@@ -9,15 +9,16 @@ The EDA phase allowed us to:
 This process provides a strong foundation for making data-driven decisions and deriving meaningful insights from the dataset.
 
 ## Business problems that can be solved using this dataset: ##
+
 1. Which products are excelling in sales, and which are underperforming?
 
-2. Which sales method are driving the highest sales and growth?
+2. Determine top 10 cities having highest profit based on sales method
 
 3. Which stores(retailer) are experiencing strong sales, and which ones are lagging?
 
 4. How does sales performance vary across different geographical regions?
 
-5. Assess the best and worst performing stores based on their locations.
+5. Assess the best and worst performing sales method based on their locations.
 
 6. Is there a specific price range that achieves better sales than others?
 
@@ -27,8 +28,10 @@ This process provides a strong foundation for making data-driven decisions and d
 
 9. Determine which products are most profitable, segmented by location.
 
-10. Does the profit margin significantly impact sales?
+10. Which product is preferred and sold more based on gender?
 
-11. Investigate whether there has been a consistent sales trend over time or any noticeable monthly trends.
+11. Does the profit margin significantly impact sales?
+
+12. Investigate whether there has been a consistent sales trend over time or any noticeable monthly trends.
 
 12.Tableau Sales Dashboard
