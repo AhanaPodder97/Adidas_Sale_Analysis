@@ -34,4 +34,4 @@ This process provides a strong foundation for making data-driven decisions and d
 
 12. Investigate whether there has been a consistent sales trend over time or any noticeable monthly trends.
 
-12.Tableau Sales Dashboard
+13. Tableau Sales Dashboard
