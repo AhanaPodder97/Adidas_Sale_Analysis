@@ -28,10 +28,10 @@ The Men’s Street Footwear emerged as the most excelled product at 5,93,320 Uni
 ![Screenshot 2024-08-05 021152](https://github.com/user-attachments/assets/ed2388a9-c334-462f-adfb-3563df5f6a93)
 
 
-## iii. Top five cities that are driving the most profit  ##
+## iii. Determine top five cities that are driving the most profit based on sales method  ##
 The visualization of the top five cities by sum of profit highlights the cities where Adidas achieves the highest sales volume. It provides insights into geographical areas with strong market demand, helping guide marketing efforts, distribution strategies, and investment decisions.
 
-New York had the highest Total Profit of 12,121,559 followed by Miami (11,765,813), Charleston (11,464,940), San Francisco (9,900,806) and Charlotte at 9,756,423.
+New York had the highest Total Profit of 12,121,559 having Outlets followed by Miami (11,765,813) with In-Store method, Charleston (11,464,940) with Online method, San Francisco (9,900,806) having Outlet and Charlotte at 9,756,423 operating Online.
 
 ![Screenshot 2024-08-01 114357](https://github.com/user-attachments/assets/6bb0d64c-3a76-4bbd-a41f-adc7139b5d35)
 
