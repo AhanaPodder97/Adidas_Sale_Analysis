@@ -11,3 +11,8 @@ The visualization of the adidas sales data was able to give reasonable insights 
 ![Screenshot 2024-08-04 025415](https://github.com/user-attachments/assets/bfd96d0d-d1df-41c8-81f5-04559fdf3fb3)
 
 ![Screenshot 2024-08-04 025646](https://github.com/user-attachments/assets/01b5524c-e127-462c-b056-e0b81368a7f1)
+
+# Insight #
+Let’s start by addressing key insight questions that will assist Adidas in identifying its strengths and areas for improvement.
+
+## i.  ##
