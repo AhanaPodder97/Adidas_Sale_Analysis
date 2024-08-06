@@ -61,11 +61,16 @@ Very low-priced products (below 30) and higher-priced products (above 75) show s
 
 ![Screenshot 2024-08-05 144924](https://github.com/user-attachments/assets/5bd76315-647d-4226-9f05-eee006d9266a)
 
-## viii. Determine which products are most profitable, segmented by location.  ##
+## viii. Determine which products are most profitable, segmented by location and Which product is preferred and sold more based on gender?  ##
+Identifying the most profitable products for each city is crucial. By doing this, retailers can fine-tune their pricing strategies, even with slight increases in profit margins, to boost earnings. This approach benefits both the manufacturer, like Adidas, and the retailer by maximizing profitability in targeted markets. Product popularity and profitability vary significantly by city, indicating the need for tailored marketing and sales strategies in different locations.
+New York and Charleston excels in sales of‘Men’s Streetwear’ and ‘Women’s Apparel’ in Charleston and Miami, indicating a strong market for these products.
+Des Moines and Fargo consistently shows the lowest sales across 'Women's Athletic Footwear' and Omaha in 'Men's Apparel', suggesting limited market penetration or demand.
 
-## ix. Which product is preferred and sold more based on gender?  ##
+![Screenshot 2024-08-07 025736](https://github.com/user-attachments/assets/87becb01-4b3d-4384-b388-5a533d1e2ed5)
 
-## x. Does the profit margin significantly impact sales?  ##
+![Screenshot 2024-08-07 025647](https://github.com/user-attachments/assets/4edbec88-847e-4896-8370-0af33a062101)
+
+## ix. Does the profit margin significantly impact sales?  ##
 
 
 
