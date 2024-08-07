@@ -8,9 +8,9 @@ The visualization of the adidas sales data was able to give reasonable insights 
 
 ![Screenshot 2024-08-04 142454](https://github.com/user-attachments/assets/83c4262b-8f45-4d65-b08f-9c6a1608b973)
 
-![Screenshot 2024-08-04 025415](https://github.com/user-attachments/assets/bfd96d0d-d1df-41c8-81f5-04559fdf3fb3)
+![Screenshot 2024-08-07 140931](https://github.com/user-attachments/assets/4adacc68-2e03-4f5a-a536-c2f357f9bcc1)
 
-![Screenshot 2024-08-04 025646](https://github.com/user-attachments/assets/01b5524c-e127-462c-b056-e0b81368a7f1)
+![Screenshot 2024-08-04 025415](https://github.com/user-attachments/assets/bfd96d0d-d1df-41c8-81f5-04559fdf3fb3)
 
 # Insight #
 Let’s start by addressing key insight that will assist Adidas in identifying its strengths and areas for improvement.
@@ -61,18 +61,20 @@ Very low-priced products (below 30) and higher-priced products (above 75) show s
 
 ![Screenshot 2024-08-05 144924](https://github.com/user-attachments/assets/5bd76315-647d-4226-9f05-eee006d9266a)
 
-## viii. Determine which products are most profitable, segmented by location and Which product is preferred and sold more based on gender?  ##
+## viii. Determine which products are most profitable, segmented by location ##
 Identifying the most profitable products for each city is crucial. By doing this, retailers can fine-tune their pricing strategies, even with slight increases in profit margins, to boost earnings. This approach benefits both the manufacturer, like Adidas, and the retailer by maximizing profitability in targeted markets. Product popularity and profitability vary significantly by city, indicating the need for tailored marketing and sales strategies in different locations.
-New York and Charleston excels in sales of‘Men’s Streetwear’ and ‘Women’s Apparel’ in Charleston and Miami, indicating a strong market for these products.
-Des Moines and Fargo consistently shows the lowest sales across 'Women's Athletic Footwear' and Omaha in 'Men's Apparel', suggesting limited market penetration or demand.
 
-![Screenshot 2024-08-07 025736](https://github.com/user-attachments/assets/87becb01-4b3d-4384-b388-5a533d1e2ed5)
+New York excels in 'Street Footwear' and Charleston excels in both ‘Apparel’ and ‘Street Footwear’ indicating a strong market for these products.
 
-![Screenshot 2024-08-07 025647](https://github.com/user-attachments/assets/4edbec88-847e-4896-8370-0af33a062101)
+Omaha and Fargo consistently shows the lowest sales across 'Athletic Footwear' suggesting limited market penetration or demand.
 
-## ix. Does the profit margin significantly impact sales?  ##
+![Screenshot 2024-08-07 132456](https://github.com/user-attachments/assets/968c8edf-f964-45f8-9e72-8491ccc545a6)
 
+![Screenshot 2024-08-07 132557](https://github.com/user-attachments/assets/90acb8cd-1cbb-41b7-8b91-d391c1f99e23)
 
+## ix. Which product is preferred and sold more based on gender? ##
+Men’s Street Footwear emerges as the top-performing category with units sold to 593320, highlighting a strong market preference. In contrast, Women’s Athletic Footwear shows a relatively lower performance, recording units sold of 317236.
 
+This disparity suggests potential growth areas and indicates a need for targeted strategies to enhance the appeal of underperforming categories like Women’s Athletic Footwear.
 
-
+![Screenshot 2024-08-01 114302](https://github.com/user-attachments/assets/f786541a-967f-4816-b592-96f6e9c8ebc4)
