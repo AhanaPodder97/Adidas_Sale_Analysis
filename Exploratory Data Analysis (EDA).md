@@ -25,11 +25,9 @@ This process provides a strong foundation for making data-driven decisions and d
     
 7.	Is there a specific price range that achieves better sales than others?
     
-8.	How does sales performance vary across different sales methods?
+8.	Determine which products are most profitable, segmented by location.
     
-9.	Determine which products are most profitable, segmented by location.
-    
-10.	Which product is preferred and sold more based on gender?
+9.	Which product is preferred and sold more based on gender?
   
-11.	Tableau Sales Dashboard
+10.	Tableau Sales Dashboard
 
