@@ -41,7 +41,7 @@ The resulting plot, styled for clarity and aesthetics, reveals patterns in month
 
 ![Screenshot 2024-08-08 014455](https://github.com/user-attachments/assets/44e19152-fba3-4b63-855d-8bfad1f1060c)
 
-## v. How does sales performance vary across different sales method  ##
+## v. Which sales methods are driving the highest revenue and which is having the least?  ##
 Sales Method Effectiveness: In-store generated the most revenue at 356,643,750(39.63%), followed by Outlet (295,585,493) 32.85%, and online at 247,672,882 (27.52%).
 
 ![Screenshot 2024-08-08 014700](https://github.com/user-attachments/assets/c2cfc8b5-8ba3-4667-a430-06522b3ead69)
