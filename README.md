@@ -9,9 +9,9 @@ In this sales analysis report, we delve into the performance of Adidas, a leadin
 
 ## TABLE OF CONTENTS ##
 - [Introduction]( README.md)
-- [Problem Statements and Task]( Problem Statement and Task.md)
-- [Basis and Requirements]( Basis and Requirements.md)
-- [Data Cleaning]( Data Cleaning.md)
-- [Exploratory Data Analysis]( Exploratory Data Analysis (EDA).md)
-- [Sales Analysis]( Data Analysis.md)
-- [Visualization and Insights]( Visualization and Insight.md)
+- [Problem Statements and Task]( Problem_Statement_and_Task.md)
+- [Basis and Requirements]( Basis_and_Requirements.md)
+- [Data Cleaning]( Data_Cleaning.md)
+- [Exploratory Data Analysis]( Exploratory_Data_Analysis(EDA).md)
+- [Sales Analysis]( Data_Analysis.md)
+- [Visualization and Insights]( Visualization_and_Insight.md)
