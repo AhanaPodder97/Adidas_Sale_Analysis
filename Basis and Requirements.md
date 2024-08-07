@@ -1,4 +1,8 @@
-# REQUIREMENTS: #
+## Basis: ##
+
+The dataset used for this project was obtained from Kaggle named “Adidas Sales Dataset” and was converted from an XLSX file to a CSV file for easier handling. The analytical aspect of the project was conducted within the MySQL Workbench, while Tableau was leveraged to create interactive dashboards.
+
+## Requirements: ##
 
 ![Screenshot 2024-08-02 222052](https://github.com/user-attachments/assets/fadae7a8-732d-4978-a73a-a9e6654874f4)
 
