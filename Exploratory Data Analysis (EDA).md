@@ -30,9 +30,5 @@ This process provides a strong foundation for making data-driven decisions and d
     
 10.	Which product is preferred and sold more based on gender?
   
-11.	Does the profit margin significantly impact sales?
-
-12.	Investigate whether there has been a consistent sales trend over time or any noticeable monthly trends.
-  
-13.	Tableau Sales Dashboard
+11.	Tableau Sales Dashboard
 
