@@ -7,7 +7,7 @@ The dataset used for this project was obtained from Kaggle named “Adidas Sales
 ## ii. Checking the Shape of Data Frame ##
 Determining the shape of a DataFrame is important because it provides immediate insight into the size of the dataset, revealing the number of rows and columns.
 
-![Screenshot 2024-08-03 142719](https://github.com/user-attachments/assets/23f855b1-ce4c-4ad2-be41-ba1f0c15fb5d)
+![Screenshot 2024-08-08 024545](https://github.com/user-attachments/assets/d2209599-355d-4b34-8c98-bfaa47b33644)
 
 ## iii. Checking for Null Values ##
 Null values can distort analysis results. Identifying the count of null values in each column helps in deciding how to handle them.
