@@ -8,3 +8,10 @@ Adidas sales dataset is a collection of data that includes information on the sa
 In this sales analysis report, we delve into the performance of Adidas, a leading global sportswear brand, over the past year. Leveraging data analysis tools such as MySQL and Tableau, we aim to provide valuable insights into Adidas’ sales performance, market trends, and growth opportunities. This report highlights key metrics, analyzes product performance, examines regional sales trends, and offers strategic recommendations to optimize sales and maintain a competitive edge in the sportswear industry. Through the utilization of MySQL queries, data cleaning, exploratory data analysis, and impactful visualizations, we have gained actionable insights into the factors driving sales growth and identified opportunities for further optimization. This analysis will serve as a foundation for data-driven decision-making and strategic planning at Adidas.
 
 ## TABLE OF CONTENTS ##
+- [Introduction]( README.md)
+- [Problem Statements and Task]( Problem Statement and Task.md)
+- [Basis and Requirements]( Basis and Requirements.md)
+- [Data Cleaning]( Data Cleaning.md)
+- [Exploratory Data Analysis]( Exploratory Data Analysis (EDA).md)
+- [Sales Analysis]( Data Analysis.md)
+- [Visualization and Insights]( Visualization and Insight.md)
