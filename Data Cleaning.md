@@ -1,4 +1,4 @@
-# Data Cleaning and Pre-Processing: #
+# Data Cleaning: #
 
 ## i. Importing and Loading Datasets ##
 
