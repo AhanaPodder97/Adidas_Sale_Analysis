@@ -16,7 +16,8 @@ This process provides a strong foundation for making data-driven decisions and d
   
 3.	How does sales performance vary across different regions?
   
-4.	Which year and month had the highest and lowest operating profit figures?
+4.	Which year and month had the highest and lowest operating profit figures and investigate whether there has been a consistent sales 
+    trend over time or any noticeable monthly trends?
 
 5.	Which sales methods are driving the highest revenue and which are having the least?
     
