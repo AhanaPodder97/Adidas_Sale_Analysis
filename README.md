@@ -9,7 +9,13 @@ In this sales analysis report, we delve into the performance of Adidas, a leadin
 
 ## TABLEAU DASHBOARD #
 To view the dashboard click on the link:
-[Tableau Dashboard Link](https://public.tableau.com/app/profile/ahana.podder/viz/AdidasSalesAnalystics/Dashboard1?publish=yes)
+
+•	[Dashboard 1]( https://public.tableau.com/app/profile/ahana.podder/viz/AdidasSalesAnalystics/Dashboard1?publish=yes)
+
+•	[Dashboard 2]( https://public.tableau.com/app/profile/ahana.podder/viz/AdidasSalesAnalystics/Dashboard2?publish=yes)
+
+•	[Dashboard 3]( https://public.tableau.com/app/profile/ahana.podder/viz/AdidasSalesAnalystics/Dashboard3?publish=yes)
+
 
 ## TABLE OF CONTENTS ##
 - [Introduction]( README.md)
